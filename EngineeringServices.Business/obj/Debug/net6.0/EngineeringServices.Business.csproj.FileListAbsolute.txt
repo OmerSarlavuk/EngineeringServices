@@ -1,0 +1,40 @@
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\refint\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\ref\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.runtimeconfig.json
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.DataAccess.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.DataAccess.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\EngineeringServices.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\refint\EngineeringServices.Business.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\EngineeringServices.Business.genruntimeconfig.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Business\obj\Debug\net6.0\ref\EngineeringServices.Business.dll

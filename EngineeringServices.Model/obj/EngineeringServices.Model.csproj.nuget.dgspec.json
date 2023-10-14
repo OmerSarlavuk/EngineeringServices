@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\EngineeringServices.Model\\EngineeringServices.Model.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\EngineeringServices.Model\\EngineeringServices.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\EngineeringServices.Model\\EngineeringServices.Model.csproj",
+        "projectName": "EngineeringServices.Model",
+        "projectPath": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\EngineeringServices.Model\\EngineeringServices.Model.csproj",
+        "packagesPath": "C:\\Users\\omers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\EngineeringServices.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\omers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omers\\OneDrive\\Masaüstü\\Projects, Git or Ws\\Engineering Services ASP.NET Core Web API\\EnginneringServices\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\omers\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[5.1.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.18, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "PostSharp.Redist": {
+              "target": "Package",
+              "version": "[2023.0.8, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\refint\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\ref\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.deps.json
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.runtimeconfig.json
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\EngineeringServices.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.csproj.AssemblyReference.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.AssemblyInfoInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.AssemblyInfo.cs
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.csproj.CoreCompileInputs.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.csproj.CopyComplete
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\refint\EngineeringServices.Model.dll
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.pdb
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\EngineeringServices.Model.genruntimeconfig.cache
+C:\Users\omers\OneDrive\Masaüstü\Projects, Git or Ws\Engineering Services ASP.NET Core Web API\EnginneringServices\EngineeringServices.Model\obj\Debug\net6.0\ref\EngineeringServices.Model.dll

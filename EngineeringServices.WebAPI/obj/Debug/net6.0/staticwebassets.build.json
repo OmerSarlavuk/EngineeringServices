@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0zgxGSJNVUTI54K6gsT3EUa1m6jN3P/EH22PsO0QCIw=",
+  "Source": "EngineeringServices.WebAPI",
+  "BasePath": "_content/EngineeringServices.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
